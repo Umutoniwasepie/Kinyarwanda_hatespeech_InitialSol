@@ -54,7 +54,8 @@ Future work possibility: KinyaBERT, lightweight augmentation.
 - **Feedback**: “Tanga” button with feedback.
 - **Files**: [designs/app_main.png](designs/app_main.png), [designs/app_feedback.png](designs/app_feedback.png)
 
-![Streamlit App](designs/app_main.png)
+![app_main](https://github.com/user-attachments/assets/8ae4f287-3127-4e3e-8650-83f3fc392602)
+
 
 ## 🚀 Deployment Plan
 
@@ -66,7 +67,9 @@ Future work possibility: KinyaBERT, lightweight augmentation.
 
 ## 🎥 Video Demo
 
-[https://drive.google.com/file/d/your-file-id/view](https://drive.google.com/file/d/your-file-id/view)
+
+[https://screenrec.com/share/SfGRWq0A2a](https://screenrec.com/share/SfGRWq0A2a)
+
 
 ## 🙏 Acknowledgments
 
