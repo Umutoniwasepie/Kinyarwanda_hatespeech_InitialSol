@@ -1,4 +1,7 @@
-![Figma_mockup](https://github.com/user-attachments/assets/bf6cf960-8229-4103-8f4b-437e7a403612)# Kinyarwanda_hatespeech_Detection_InitialSol
+# Kinyarwanda_hatespeech_Detection_InitialSol
+
+![Figma_page](https://github.com/user-attachments/assets/037fc8b1-dff0-44e4-b525-bd0b3e9d2282)
+
 
 ## 📖 Description
 
