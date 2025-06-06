@@ -52,9 +52,12 @@ Future work possibility: KinyaBERT, lightweight augmentation.
 ### Streamlit App Screenshots
 - **Main Interface**: Prediction for “umuntu mubi” (“Negative”).
 - **Feedback**: “Tanga” button with feedback.
-- **Files**: [designs/app_main.png](designs/app_main.png), [designs/app_feedback.png](designs/app_feedback.png)
+- **Files**:
 
 ![app_main](https://github.com/user-attachments/assets/8ae4f287-3127-4e3e-8650-83f3fc392602)
+![boxplot_tweet_length](https://github.com/user-attachments/assets/b8c010ae-5911-46e6-ab91-e12bc22697c5)
+![wordcloud_positive](https://github.com/user-attachments/assets/9129337c-216a-4e6f-b02b-faec04142688)
+![confusion_matrix_logreg_test](https://github.com/user-attachments/assets/e5fd2510-2be1-4ae8-846d-d626d175283b)
 
 
 ## 🚀 Deployment Plan
