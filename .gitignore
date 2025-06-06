@@ -1,0 +1,7 @@
+# .gitignore
+results/checkpoint-best/
+logs/
+data/*.tsv
+venv/
+__pycache__/
+*.pyc
